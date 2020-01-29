@@ -1,0 +1,5 @@
+package com.microservices.currencyexchangeservice.jpa;
+
+public class ExchangeValueRepository {
+
+}

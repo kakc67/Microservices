@@ -1,0 +1,5 @@
+package com.microservices.currencyexchangeservice;
+
+public class ExchangeValue {
+
+}

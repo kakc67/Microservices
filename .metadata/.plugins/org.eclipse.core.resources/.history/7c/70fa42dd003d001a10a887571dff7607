@@ -1,0 +1,11 @@
+package com.microservices.limitsservice;
+
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
+
+@Component
+//@ConfigurationProperties(prefix = "limits-service")
+@ConfigurationProperties("limits-service")
+public class Configuration {
+
+}

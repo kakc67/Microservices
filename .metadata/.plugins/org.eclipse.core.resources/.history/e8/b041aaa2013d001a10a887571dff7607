@@ -1,0 +1,6 @@
+server.port=7070
+
+spring.application.name=limits-service
+
+limits-service.minimum=999
+limits-service.maximum=9999
